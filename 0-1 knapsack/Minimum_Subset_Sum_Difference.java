@@ -1,5 +1,4 @@
-// Problem Statement Name : Minimum subset sum difference
-//Solution with 0/1 knapsack .
+
 
 public class MinDiff{
 
